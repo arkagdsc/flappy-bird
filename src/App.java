@@ -3,7 +3,7 @@ public class App
 {
     public static void main(String[] args) 
     {
-        int height=550;
+        int height=550;   
         int width=1000;
 
         JFrame frame=new JFrame("Flappy Bird Game");
